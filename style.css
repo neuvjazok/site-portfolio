@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+
+.row {
+    margin-top: 6ex;
+    margin-bottom: 6ex;
+
+}
+
+.img-fluid {
+    margin-top: 4em;
+
+
+}
+
+.card {
+    margin-top: 4em;
+    margin-left: 2em;
+    background-color: #aaa;
+    border: 3px solid black;
+
+}
